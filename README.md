@@ -25,7 +25,7 @@
  
 <div> 
   <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gabrielpgaliza2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gabrielfossattibeltran@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-pescarolli-galiza-542222289/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
@@ -34,23 +34,10 @@
 </div>
 
 <div>
-<img align="left"  height="150em" src="https://github-readme-stats.vercel.app/api?username=brielpg&show_icons=true&theme=radical">
-<img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brielpg&layout=compact&theme=radical">
+<img align="left"  height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrielFossatti&show_icons=true&theme=radical">
+<img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFossatti&layout=compact&theme=radical">
 </div>
 
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/brielpg/brielpg/blob/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github.com/brielpg/brielpg/blob/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+
 
